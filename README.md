@@ -5,6 +5,8 @@
 - 🌱Estou aprendendo a programar JS, html, css ,Phyton, Scratch 
 - 💭 Buscando atualizações na educação
 - 🤓🥰Amando VSCode!!!
+- 💭😀Buscando novas experiências!
+- 
  
 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
