@@ -4,7 +4,7 @@
 - My email contact is ememchi@gmail.com
 - 🌱Estou aprendendo a programar JS, html, css ,Phyton, Scratch 
 - 💭 Buscando atualizações na educação
-- 🤓🥰Amando VSCode!!!
+- 🤓🥰Apredendo  VSCode!!!
 - 💭😀Buscando novas experiências!
 - 
  
