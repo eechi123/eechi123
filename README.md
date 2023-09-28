@@ -6,6 +6,7 @@
 - 💭 Buscando atualizações na educação
 - 🤓🥰Apredendo  VSCode!!!
 - 💭😀Buscando novas experiências!
+-😎
 - 
  
 
