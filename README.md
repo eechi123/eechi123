@@ -1,4 +1,4 @@
-# Sobre mim
+# Sobre mim 👩‍🏫
 - 👋 Hi, I’m **Emilia Irikuchi**
 - 👀 Estou interessada em aprender a programar diferentes linguagens de programação
 - My email contact is ememchi@gmail.com
