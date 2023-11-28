@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **Emilia Irikuchi**
 - 👀 Estou interessada em aprender a programar diferentes linguagens de programação
 - My email contact is ememchi@gmail.com
-- 🌱Estou aprendendo a programar JS, html, css ,Phyton, Scratch 
+- 🌱Estou aprendendo a programar JS, html, css , Scratch 
 - 💭 Buscando atualizações na educação
 - 🤓🥰Aprendendo  VSCode!!!
 - 💭😀Buscando novas experiências!
